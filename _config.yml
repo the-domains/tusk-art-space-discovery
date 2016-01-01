@@ -1,0 +1,28 @@
+name: Tusk Art Space Discovery
+favicon: null
+layout_spectrum: 0.7058182628825307
+typography_spectrum: 0.5361124780029058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.394040800165385
+  lightness: 0.2178242311347276
+  saturation: 0.3203631844371557
+  rhythmicContrast: 0.9675210462883115
+purpose: []
